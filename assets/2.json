@@ -1,0 +1,19 @@
+{
+  "name": "Anniyan",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4yDfDtaKjvPdZ1YT483dUNd5q1CbcMUpByXDEHnA9qFi",
+        "share": 100
+      }
+    ]
+  }
+}

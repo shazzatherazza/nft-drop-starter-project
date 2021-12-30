@@ -32,6 +32,74 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
+  animation: color-change 60s infinite;
+}
+
+@keyframes color-change {
+  0% {
+    color: #fea47f;
+  }
+  5% {
+    color: #f97f51;
+  }
+  10% {
+    color: #b33771;
+  }
+  15% {
+    color: #6d214f;
+  }
+  20% {
+    color: #eab543;
+  }
+  25% {
+    color: #f8efba;
+  }
+  30% {
+    color: #fd7272;
+  }
+  35% {
+    color: #fc427b;
+  }
+  40% {
+    color: #cad3c8;
+  }
+  45% {
+    color: #2c3a47;
+  }
+  50% {
+    color: #d6a2e8;
+  }
+  55% {
+    color: #82589f;
+  }
+  60% {
+    color: #25ccf7;
+  }
+  65% {
+    color: #1b9cfc;
+  }
+  70% {
+    color: #3b3b98;
+  }
+  75% {
+    color: #182c61;
+  }
+  80% {
+    color: #55e6c1;
+  }
+  85% {
+    color: #58b19f;
+  }
+  90% {
+    color: #9aecdb;
+  }
+  95% {
+    color: #bdc581;
+  }
+
+  100% {
+    color: #fea47f;
+  }
 }
 
 .sub-text {

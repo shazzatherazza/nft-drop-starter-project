@@ -31,3 +31,7 @@
   border-radius: 10px;
   object-fit: cover;
 }
+
+.mint-button.cta-button {
+  color: white;
+}
